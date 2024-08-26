@@ -34,3 +34,23 @@ psql -U postgres < worldcup.sql
 chmod +x insert_data.sh queries.sh
 ./insert_data.sh
 ./queries.sh
+pg_dump -cC --inserts -U freecodecamp worldcup > worldcup.sql
+git clone https://github.com/Jd-Mitchell/freecodecamp.git
+git add .
+ls --color=auto
+git remote add freecodecamp https://github.com/Jd-Mitchell/freecodecamp.git
+git push -u origin master
+git push -u remote
+git push -u frecodecamp
+git remote add origin https://github.com/Jd-Mitchell/freecodecamp.git
+git remote add freecodecamp https://github.com/Jd-Mitchell/freecodecamp.git
+git remote add frcchttps://github.com/Jd-Mitchell/freecodecamp.git
+__vsc_prompt_cmd_original
+git remote add https://github.com/Jd-Mitchell/freecodecamp.git
+git remote ad fccd https://github.com/Jd-Mitchell/freecodecamp.git
+git remote add fcc https://github.com/Jd-Mitchell/freecodecamp.git
+git push -u fcc master
+git push -u fcc
+git remove -v
+git remote -v
+git add .
